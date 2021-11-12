@@ -318,41 +318,6 @@
         "code": "moreThan20",
         "count": null
       }
-    },
-    {
-      "productId": 16021528,
-      "brand": {
-        "id": "112",
-        "name": "Paco Rabanne"
-      },
-      "attributes": {
-        "Master": true,
-        "PackageSize": {
-          "height": 155,
-          "width": 65,
-          "depth": 50
-        },
-        "FreeDelivery": true
-      },
-      "annotation": "parfém pro muže 100 ml",
-      "masterId": 16021528,
-      "url": "/paco-rabanne/1-million-parfum-parfem-pro-muze/",
-      "orderUnit": "ks",
-      "price": {
-        "value": 1785,
-        "currency": "CZK"
-      },
-      "imageUrl": "paco-rabanne/3349668579839_01-o/paco-rabanne-1-million-parfum-parfem-pro-muze_.jpg",
-      "name": "1 Million Parfum",
-      "productCode": "PAR1PAM_AEDP10",
-      "reviewSummary": {
-        "score": 5,
-        "averageRating": 4.9
-      },
-      "stockAvailability": {
-        "code": "moreThan20",
-        "count": null
-      }
     }
   ]
 }
