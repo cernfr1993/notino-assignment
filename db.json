@@ -1,0 +1,566 @@
+{
+  "vpProductByIds": [
+    {
+      "productId": 16024282,
+      "brand": {
+        "id": "12187",
+        "name": "Philips"
+      },
+      "attributes": {
+        "Master": true,
+        "AirTransportDisallowed": true,
+        "PackageSize": {
+          "height": 220,
+          "width": 110,
+          "depth": 65
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "sonický elektrický zubní kartáček pro děti s Bluetooth",
+      "masterId": 16024282,
+      "url": "/philips/sonicare-for-kids-3-hx6352-42-sonicky-elektricky-zubni-kartacek-pro-deti-s-bluetooth/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 1399,
+        "currency": "CZK"
+      },
+      "imageUrl": "philips/8710103931096_01-o/philips-sonicare-for-kids-3-hx6352_42-sonicky-elektricky-zubni-kartacek-pro-deti-s-bluetooth_.jpg",
+      "name": "Sonicare For Kids 3+ HX6352/42",
+      "productCode": "PHI524D_KETB34",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 5
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 16073326,
+      "brand": {
+        "id": "5779",
+        "name": "EP Line"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 170,
+          "width": 70,
+          "depth": 70
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "sprchový gel a šampon 2 v 1 pro děti 400 ml",
+      "masterId": 16073326,
+      "url": "/ep-line/paw-patrol-chase-sprchovy-gel-a-sampon-2-v-1-pro-deti/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 121,
+        "currency": "CZK"
+      },
+      "imageUrl": "ep-line/8411114063362_01-o/ep-line-paw-patrol-chase-sprchovy-gel-a-sampon-2-v-1-pro-deti_.jpg",
+      "name": "Paw Patrol Chase",
+      "productCode": "EPLPWPD_KSWG03",
+      "reviewSummary": {
+        "score": 0,
+        "averageRating": 0
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 16084811,
+      "brand": {
+        "id": "26979",
+        "name": "Air Val"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 130,
+          "width": 90,
+          "depth": 50
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "toaletní voda pro děti 100 ml",
+      "masterId": 16084811,
+      "url": "/air-val/frozen-ii-toaletni-voda-pro-deti/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 234,
+        "currency": "CZK"
+      },
+      "imageUrl": "air-val/8411114086279_01-o/air-val-frozen-ii-toaletni-voda-pro-deti_.jpg",
+      "name": "Frozen II",
+      "productCode": "AIVFROD_AEDT01",
+      "reviewSummary": {
+        "score": 0,
+        "averageRating": 0
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 16091065,
+      "brand": {
+        "id": "69234",
+        "name": "iBaby"
+      },
+      "attributes": {
+        "New": true,
+        "Action": true,
+        "Master": true,
+        "PackageSize": {
+          "height": 158,
+          "width": 153,
+          "depth": 153
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "video chůvička",
+      "masterId": 16091065,
+      "url": "/ibaby/m8-monitor-video-chuvicka/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 6649,
+        "currency": "CZK"
+      },
+      "imageUrl": "ibaby/860000454872_01/ibaby-m8-monitor-video-chuvicka_.jpg",
+      "name": "M8 Monitor",
+      "productCode": "IBBM8MD_ZBMM01",
+      "reviewSummary": {
+        "score": 0,
+        "averageRating": 0
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 16077088,
+      "brand": {
+        "id": "17990",
+        "name": "Allnature"
+      },
+      "attributes": {
+        "Master": true,
+        "AirTransportDisallowed": true,
+        "PackageSize": {
+          "height": 95,
+          "width": 60,
+          "depth": 60
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "doplněk stravy  pro hydrataci a vypnutí pokožky 30 ks",
+      "masterId": 16077088,
+      "url": "/zdravi/allnature/morsky-kolagen-vit-c-vit-b3-pro-pruznou-a-hydratovanou-pokozku/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 191,
+        "currency": "CZK"
+      },
+      "imageUrl": "allnature/8595674626851_01/allnature-morsky-kolagen-vit-c-vit-b3-doplnek-stravy-pro-hydrataci-a-vypnuti-pokozky_.jpg",
+      "name": "Mořský kolagen + vit. C + vit B3",
+      "productCode": "ALRIBHU_ZDOP54",
+      "reviewSummary": {
+        "score": 0,
+        "averageRating": 0
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 638329,
+      "brand": {
+        "id": "22730",
+        "name": "Delia Cosmetics"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 158,
+          "width": 80,
+          "depth": 40
+        }
+      },
+      "annotation": "barva na vlasy 30 ml",
+      "masterId": 638329,
+      "url": "/delia-cosmetics/cameleo-men-barva-na-vlasy/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 58,
+        "currency": "CZK"
+      },
+      "imageUrl": "delia-cosmetics/5901350445822_01/delia-cosmetics-cameleo-men-barva-na-vlasy___14.jpg",
+      "name": "Cameleo Men",
+      "productCode": "DLCCMMM_KCOL30",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.9
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 16094022,
+      "brand": {
+        "id": "89",
+        "name": "Lancôme"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 237,
+          "width": 237,
+          "depth": 80
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "dárková sada (limitovaná edice)",
+      "masterId": 16094022,
+      "url": "/lancome/la-nuit-tresor-darkova-sadalimitovana-edice/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 1979,
+        "currency": "CZK"
+      },
+      "imageUrl": "lancome/3614273597357_01/lancome-la-nuit-tresor-darkova-sada-limitovana-edice_.jpg",
+      "name": "La Nuit Trésor",
+      "productCode": "LAMZDHW_ASET17",
+      "reviewSummary": {
+        "score": 0,
+        "averageRating": 0
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 11626662,
+      "brand": {
+        "id": "89",
+        "name": "Lancôme"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 80,
+          "width": 100,
+          "depth": 100
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "parfémovaná voda pro ženy 50 ml",
+      "masterId": 11626662,
+      "url": "/lancome/la-nuit-tresor-a-la-folie-parfemovana-voda-pro-zeny/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 1696,
+        "currency": "CZK"
+      },
+      "imageUrl": "lancome/9005802826170_01-o/lancome-la-nuit-tresor-a-la-folie-parfemovana-voda-pro-zeny___5.jpg",
+      "name": "La Nuit Trésor À La Folie",
+      "productCode": "LAMFOLW_AEDP20",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.9
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 494691,
+      "brand": {
+        "id": "89",
+        "name": "Lancôme"
+      },
+      "attributes": {
+        "DifferentPackaging": true,
+        "Master": true,
+        "PackageSize": {
+          "height": 110,
+          "width": 107,
+          "depth": 88
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "parfémovaná voda pro ženy 75 ml",
+      "masterId": 494691,
+      "url": "/lancome/la-nuit-tresor-parfemovana-voda-pro-zeny/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 1885,
+        "currency": "CZK"
+      },
+      "imageUrl": "lancome/3605533315347_04-o/lancome-la-nuit-tresor-parfemovana-voda-pro-zeny___20.jpg",
+      "name": "La Nuit Trésor",
+      "productCode": "LAMTNUW_AEDP10",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.8
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 16021528,
+      "brand": {
+        "id": "112",
+        "name": "Paco Rabanne"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 155,
+          "width": 65,
+          "depth": 50
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "parfém pro muže 100 ml",
+      "masterId": 16021528,
+      "url": "/paco-rabanne/1-million-parfum-parfem-pro-muze/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 1785,
+        "currency": "CZK"
+      },
+      "imageUrl": "paco-rabanne/3349668579839_01-o/paco-rabanne-1-million-parfum-parfem-pro-muze_.jpg",
+      "name": "1 Million Parfum",
+      "productCode": "PAR1PAM_AEDP10",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.9
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 85449,
+      "brand": {
+        "id": "89",
+        "name": "Lancôme"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 140,
+          "width": 100,
+          "depth": 58
+        },
+        "FreeDelivery": true
+      },
+      "annotation": "parfémovaná voda pro ženy 75 ml",
+      "masterId": 85449,
+      "url": "/lancome/la-vie-est-belle-parfemovana-voda-pro-zeny/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 1849,
+        "currency": "CZK"
+      },
+      "imageUrl": "lancome/3605532612836_01-o/lancome-la-vie-est-belle-parfemovana-voda-pro-zeny___30.jpg",
+      "name": "La Vie Est Belle",
+      "productCode": "LAMVEBW_AEDP10",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.7
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 16097579,
+      "brand": {
+        "id": "233",
+        "name": "TOM FORD"
+      },
+      "attributes": {
+        "New": true,
+        "Master": true,
+        "PackageSize": {
+          "height": 190,
+          "width": 190,
+          "depth": 50
+        }
+      },
+      "annotation": "dárková sada pro muže",
+      "masterId": 16097579,
+      "url": "/tom-ford/orchid-soleil-darkova-sada-pro-muze/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 4690,
+        "currency": "CZK"
+      },
+      "imageUrl": "tom-ford/888066124928_01/tom-ford-noir-extreme-darkova-sada-pro-muze_.jpg",
+      "name": "Noir Extreme",
+      "productCode": "TOFNEXM_ASET01",
+      "reviewSummary": {
+        "score": 0,
+        "averageRating": 0
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 496602,
+      "brand": {
+        "id": "233",
+        "name": "TOM FORD"
+      },
+      "attributes": {
+        "New": true,
+        "Master": true,
+        "PackageSize": {
+          "height": 72,
+          "width": 125,
+          "depth": 40
+        }
+      },
+      "annotation": "parfémovaná voda pro muže 100 ml",
+      "masterId": 496602,
+      "url": "/tom-ford/noir-extreme-parfemovana-voda-pro-muze/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 4690,
+        "currency": "CZK"
+      },
+      "imageUrl": "tom-ford/888066035392_01-o/tom-ford-noir-extreme-parfemovana-voda-pro-muze___13.jpg",
+      "name": "Noir Extreme",
+      "productCode": "TOFNEXM_AEDP10",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.8
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 60486,
+      "brand": {
+        "id": "63",
+        "name": "Hugo Boss"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 60,
+          "width": 135,
+          "depth": 62
+        }
+      },
+      "annotation": "toaletní voda pro muže 100 ml",
+      "masterId": 60486,
+      "url": "/hugo-boss/boss-no6-bottled-toaletni-voda-pro-muze/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 1115,
+        "currency": "CZK"
+      },
+      "imageUrl": "hugo-boss/hugno6m_aedt10_03-o/hugo-boss-boss-bottled-toaletni-voda-pro-muze___32.jpg",
+      "name": "BOSS Bottled",
+      "productCode": "HUGNO6M_AEDT10",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.6
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 424170,
+      "brand": {
+        "id": "10782",
+        "name": "Axe"
+      },
+      "attributes": {
+        "DifferentPackaging": true,
+        "Master": true,
+        "PackageSize": {
+          "height": 140,
+          "width": 52,
+          "depth": 52
+        }
+      },
+      "annotation": "deodorant ve spreji 150 ml",
+      "masterId": 424170,
+      "url": "/axe/dark-temptation-deospray-pro-muze/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 75,
+        "currency": "CZK"
+      },
+      "imageUrl": "axe/8717644256152_01-o/axe-dark-temptation-deodorant-ve-spreji___26.jpg",
+      "name": "Dark Temptation",
+      "productCode": "AXEDTPM_DDSR10",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.9
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    },
+    {
+      "productId": 83015,
+      "brand": {
+        "id": "258",
+        "name": "L’Oréal Professionnel"
+      },
+      "attributes": {
+        "Master": true,
+        "PackageSize": {
+          "height": 36,
+          "width": 65,
+          "depth": 65
+        }
+      },
+      "annotation": "modelovací hlína silné zpevnění 50 ml",
+      "masterId": 83015,
+      "url": "/loreal-professionnel/homme-styling-modelovaci-hlina-silne-zpevneni/",
+      "orderUnit": "ks",
+      "price": {
+        "value": 196,
+        "currency": "CZK"
+      },
+      "imageUrl": "loreal-professionnel/3474630287273_01-o/loreal-professionnel-homme-5-force-clay-modelovaci-hlina-silne-zpevneni___26.jpg",
+      "name": "Homme 5 Force Clay",
+      "productCode": "LOPHOSM_KSTL50",
+      "reviewSummary": {
+        "score": 5,
+        "averageRating": 4.8
+      },
+      "stockAvailability": {
+        "code": "moreThan20",
+        "count": null
+      }
+    }
+  ]
+}
