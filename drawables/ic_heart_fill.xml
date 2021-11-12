@@ -1,0 +1,4 @@
+<vector android:height="64dp" android:viewportHeight="64"
+    android:viewportWidth="64" android:width="64dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/notino_pink" android:pathData="M31.91,61.67 L29.62,60C20.22,53.3 12.9,46.51 7.88,39.83 3.11,33.5 0.48,27.39 0.06,21.7A17.63,17.63 0,0 1,5.45 7.16h0A17,17 0,0 1,17.31 2.35h0c3.46,0 7.93,0.39 11.8,3.4A19.09,19.09 0,0 1,32 8.41a19.91,19.91 0,0 1,2.91 -2.67c3.89,-3 8.37,-3.41 11.84,-3.41h0A16.86,16.86 0,0 1,58.6 7.13a17.51,17.51 0,0 1,5.33 14.53c-0.44,5.7 -3.1,11.81 -7.9,18.14C51,46.5 43.63,53.3 34.21,60Z"/>
+</vector>
