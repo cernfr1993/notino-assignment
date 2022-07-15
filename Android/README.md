@@ -1,4 +1,4 @@
-##NOTINO - Assignment##
+## NOTINO - Assignment
 Your assignment is to create application for displaying some of Notino products.
 
 - Create **native Android** application in **Android Studio** (Android Studio 4.0 or higher).
