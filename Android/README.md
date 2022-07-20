@@ -1,8 +1,15 @@
-## NOTINO - Assignment
-Your assignment is to create application for displaying some of Notino products.
+![Notino](https://www.notino.cz/fotocache/gallery/loga/notino_pozitiv_800.png "Notino")
 
+### Android Assignment
+Your assignment is to create a native Android application for displaying a couple of Notino products as seen in the provided [Figma](https://www.figma.com/file/RKnYLbexOQOEMwZQzvarO5/%5BAndroid%5D-Test-handoff?node-id=0%3A1) design (you need to sign in to introspect the design with more detail).
+Fetch products using a simple **GET** request at URL – https://my-json-server.typicode.com/cernfr1993/notino-assignment/db
+Prefix URL for downloading product images – https://i.notino.com/detail_zoom/{IMAGE_ID}
+
+---
+
+**Requirements**
 - Create **native Android** application in **Android Studio** (Android Studio 4.0 or higher).
-- Use Figma for designing. All design resources are inside design-android.fig file.
+- Use [Figma](https://www.figma.com/file/RKnYLbexOQOEMwZQzvarO5/%5BAndroid%5D-Test-handoff?node-id=0%3A1) for designing.
 - Get products from simple get request located at url
 [https://my-json-server.typicode.com/cernfr1993/notino-assignment/db](https://my-json-server.typicode.com/cernfr1993/notino-assignment/db)
 - Use prefix url for downloading product images **https:// i.notino.com/detail_zoom/**
