@@ -22,3 +22,5 @@ Prefix URL for downloading product images – https://i.notino.com/detail_zoom/{
 - Implement "add to cart" button states as proposed in the design.
 
 **NOTE**: Keep complexity of the project in mind. Since this is a small single-screen app, the project should be easy to navigate and the code fairly simple to read.
+
+![Screen](https://github.com/cernfr1993/notino-assignment/raw/main/iOS/screen_ios.png)

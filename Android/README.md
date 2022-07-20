@@ -9,7 +9,7 @@ Prefix URL for downloading product images – https://i.notino.com/detail_zoom/{
 
 **Requirements**
 - Create **native Android** application in **Android Studio** (Android Studio 4.0 or higher).
-- Use [Figma](https://www.figma.com/file/RKnYLbexOQOEMwZQzvarO5/%5BAndroid%5D-Test-handoff?node-id=0%3A1) for designing.
+- Use [Figma](https://www.figma.com/file/RKnYLbexOQOEMwZQzvarO5/%5BAndroid%5D-Test-handoff?node-id=0%3A1) for designing (you need to sign in to introspect the design with more detail).
 - Get products from simple get request located at url
 [https://my-json-server.typicode.com/cernfr1993/notino-assignment/db](https://my-json-server.typicode.com/cernfr1993/notino-assignment/db)
 - Use prefix url for downloading product images **https:// i.notino.com/detail_zoom/**
@@ -17,3 +17,5 @@ Prefix URL for downloading product images – https://i.notino.com/detail_zoom/{
 - State of the favourite products (state of the heart) must be stored persistently.
 - Keep in mind that products count can be much higher than provided in example request.
 - Use score property in reviewSummary for displaying product rating.
+
+![Screen](https://github.com/cernfr1993/notino-assignment/raw/main/Android/screen_android.png)
